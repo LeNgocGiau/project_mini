@@ -2,3 +2,5 @@
 add-migration db
 ####
 update-database
+####
+dotnet run seeddata
